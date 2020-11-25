@@ -49,6 +49,7 @@ Pertanyaan-pertanyaan lain bisa kalian tanya ke gw lewat discord (`troke.id#0027
 | [Isyana Sarasvati - Tetap Dalam Jiwa](https://osu.ppy.sh/beatmapsets/892743#osu/1866049) | [Euncha_N](https://osu.ppy.sh/users/10828670) |
 | [JKT48 Indonesia - Baby! Baby! Baby!](https://osu.ppy.sh/beatmapsets/88789#mania/241776) | [Raka_Lawliet](https://osu.ppy.sh/users/2010992) |
 | [Superman Is Dead - Kuat Kita Bersinar](https://osu.ppy.sh/beatmapsets/52877#osu/170522) | [Matoryoshika](https://osu.ppy.sh/users/1475850) |
+| [Superman Is Dead - Kuat Kita Bersinar](https://osu.ppy.sh/beatmapsets/989452#fruits/2069807) | [Funtastic](https://osu.ppy.sh/users/3555626) |
 | [Degung Orchestra - Made Rai](https://osu.ppy.sh/beatmapsets/486784#mania/1080091) | [troke](https://osu.ppy.sh/u/troke) |
 | [Fleurishana x Rei - Drop Pop Candy -Indonesian ver.-](https://osu.ppy.sh/beatmapsets/421724#osu/912035) | [Kasuga](https://osu.ppy.sh/users/1360311) |
 | [OREO - Wonderfilled (Bahasa Indonesia)](https://osu.ppy.sh/beatmapsets/349725#mania/773136) | [erlinadewi-](https://osu.ppy.sh/users/3655315) |

@@ -12,7 +12,7 @@ Jika kalian ingin menambahkan beatmap baru, kalian harus mengerti menggunakan Gi
   - Beatmap dengan lagu remix, cover, viral atau artis dari Indonesia boleh dimasukkan
   - Beatmap yang sudah *Ranked* di server Bancho, boleh dimasukkan
 
-Pertanyaan-pertanyaan lain bisa kalian tanya ke gw lewat discord (`troke.id#007`) atau [Facebook](https://www.facebook.com/trokee12/)
+Pertanyaan-pertanyaan lain bisa kalian tanya ke gw lewat discord (`troke.id#0027`) atau [Facebook](https://www.facebook.com/trokee12/)
 
 ## Ranked
 

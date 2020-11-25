@@ -74,5 +74,35 @@ Pertanyaan-pertanyaan lain bisa kalian tanya ke gw lewat discord (`troke.id#0027
 | [FDM - Angan](https://osu.ppy.sh/beatmapsets/629222) | [upan](https://osu.ppy.sh/users/5214397) |
 | [Lastchild - Lagu Terakhir Untukmu](https://osu.ppy.sh/beatmapsets/605618) | [upan](https://osu.ppy.sh/users/5214397) |
 | [Upiak Isil - Tak Tun Tuang](https://osu.ppy.sh/beatmapsets/691814) | [Sarahkuai](https://osu.ppy.sh/users/5246861) |
-| [NTRL - Sakit Jiwa (Bukalapak Ver.)](https://osu.ppy.sh/beatmapsets/544306) | [dionz99](https://osu.ppy.sh/users/2545604) |
- 
+| [NTRL - Sakit Jiwa (Bukalapak Ver.)](https://osu.ppy.sh/beatmapsets/544306) | [dionzz99](https://osu.ppy.sh/users/2545604) |
+| [TradoL - First Storm -Indonesian Version-](https://osu.ppy.sh/beatmapsets/1113117#osu/2325388) | [Kampret](https://osu.ppy.sh/users/8413114) |
+| [Project Pop - Metal vs. Dugem](https://osu.ppy.sh/beatmapsets/995775#osu/2082998) | [Keitaro-](https://osu.ppy.sh/users/3378391) |
+| [Siti Badriah - Mamah Minta Pulsa (Speed Up Ver.)](https://osu.ppy.sh/beatmapsets/998549#osu/2088553) | [Seox](https://osu.ppy.sh/users/3793938) |
+| [Mastin - Ekstrak Kulit Manggis](https://osu.ppy.sh/beatmapsets/189280#osu/455232) | [17day](https://osu.ppy.sh/users/1948411) |
+| [Arya Wiguna - Jebakan Subur (Mardial Remix)](https://osu.ppy.sh/beatmapsets/89551#osu/244021) | [henrykosim](https://osu.ppy.sh/users/1931063) |
+| [O.M. Keleus ft. Hatsune Miku - Oplosan](https://osu.ppy.sh/beatmapsets/459502#osu/984956) | [puxtu](https://osu.ppy.sh/users/3070611) |
+| [Firo - Garok's Sand Canyon](https://osu.ppy.sh/beatmapsets/832627#osu/1744287) | [VanillaSandvich](https://osu.ppy.sh/users/2782093) |
+| [NSG - Astaghfirullah (Parody Despacito)](https://osu.ppy.sh/beatmapsets/793353#osu/1666142) | [VanillaSandvich](https://osu.ppy.sh/users/2782093) |
+| [PUNXGOARAN - Sayur Kol](https://osu.ppy.sh/beatmapsets/911811#osu/1903859) | [VanillaSandvich](https://osu.ppy.sh/users/2782093) |
+| [Various Artist - Iklan Meses Ceres](https://osu.ppy.sh/beatmapsets/960348#osu/2010606) | [Kuzuga](https://osu.ppy.sh/users/13255288) |
+| [RCTI - OKE](https://osu.ppy.sh/beatmapsets/844871#osu/1767222) | [Saturnalize](https://osu.ppy.sh/users/762487) |
+| [Rajawali Citra Televisi Indonesia - Silet](https://osu.ppy.sh/beatmapsets/981686#osu/2054439) | [Saturnalize](https://osu.ppy.sh/users/762487) |
+| [moccatune feat. umu - Tentangmu](https://osu.ppy.sh/beatmapsets/1074653#osu/2248885) | [-AvicennaNM](https://osu.ppy.sh/users/5058916) |
+| [moccatune - Sore Ini, Untuk Selamanya](https://osu.ppy.sh/beatmapsets/1160218#osu/2420777) | [-AvicennaNM](https://osu.ppy.sh/users/5058916) |
+| [moccatune (CV: umu) - Di Sampingmu](https://osu.ppy.sh/beatmapsets/1238319#osu/2574678) | [-AvicennaNM](https://osu.ppy.sh/users/5058916) |
+| [SERAVI! feat. moccatune (CV: Fleurishana, umu, Florencedyjhe, Djalto) - Suka Suka](https://osu.ppy.sh/beatmapsets/1256129#osu/2610449) | [-AvicennaNM](https://osu.ppy.sh/users/5058916) |
+| [sheirara - Ameoto Noise](https://osu.ppy.sh/beatmapsets/1160208#osu/2420750) | [-AvicennaNM](https://osu.ppy.sh/users/5058916) |
+| [sheirara - Kami no Kotoba](https://osu.ppy.sh/beatmapsets/879171#osu/1838625) | [-AvicennaNM](https://osu.ppy.sh/users/5058916) |
+| [sheirara - Nisemono Chuuhiou](https://osu.ppy.sh/beatmapsets/996228#osu/2083755) | [-AvicennaNM](https://osu.ppy.sh/users/5058916) |
+| [Vierra - Dengarkan Curhatku](https://osu.ppy.sh/beatmapsets/859664#osu/1796332) | [-AvicennaNM](https://osu.ppy.sh/users/5058916) |
+| [Vierra - Jadi Apa Yang Kuinginkan](https://osu.ppy.sh/beatmapsets/859665#osu/1796333) | [-AvicennaNM](https://osu.ppy.sh/users/5058916) |
+| [Vierra - Semua Tentangmu](https://osu.ppy.sh/beatmapsets/859670#osu/1796345) | [-AvicennaNM](https://osu.ppy.sh/users/5058916) |
+| [Vierra - Kepergianmu](https://osu.ppy.sh/beatmapsets/884535#osu/1848841) | [-AvicennaNM](https://osu.ppy.sh/users/5058916) |
+| [Vierra - Seandainya](https://osu.ppy.sh/beatmapsets/617479#osu/1846902) | [-AvicennaNM](https://osu.ppy.sh/users/5058916) |
+| [Vierra - Manusia](https://osu.ppy.sh/beatmapsets/964020#osu/2018262) | [-AvicennaNM](https://osu.ppy.sh/users/5058916) |
+| [Pee Wee Gaskins - Dibalik Hari Esok](https://osu.ppy.sh/beatmapsets/1074757#osu/2249058) | [-AvicennaNM](https://osu.ppy.sh/users/5058916) |
+| [DJ Akimilaku - Aisyah Jatuh Cinta pada Jamilah](https://osu.ppy.sh/beatmapsets/801676#osu/1682699) | [-AvicennaNM](https://osu.ppy.sh/users/5058916) |
+| [Sheila On 7 - Film Favorit](https://osu.ppy.sh/beatmapsets/821038#osu/1720957) | [-AvicennaNM](https://osu.ppy.sh/users/5058916) |
+| [Project Pop - Metal vs. Dugem](https://osu.ppy.sh/beatmapsets/887458#osu/1855195) | [-AvicennaNM](https://osu.ppy.sh/users/5058916) | 
+| [DEAN SKYZX & YAYA USELESS - Staywithme](https://osu.ppy.sh/beatmapsets/869180#osu/1816557) | [-AvicennaNM](https://osu.ppy.sh/users/5058916) |
+

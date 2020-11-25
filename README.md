@@ -7,10 +7,11 @@ Link Pendek : https://link.troke.id/beatmap-indonesia
 
 ## Kontribusi
 
-Jika kalian ingin menambahkan beatmap baru, kalian harus mengerti menggunakan GitHub, jika belum pernah menggunakannya silahkan request pm lewat discord supaya ditambahkan atau silahkan gunakan [form](https://forms.gle/X9LLXHFf1nZKreSE6) ini, silahkan baca syarat di bawah ini jika ingin berkontribusi:
+Jika kalian ingin menambahkan beatmap baru, kalian harus mengerti menggunakan GitHub, jika belum pernah menggunakannya silahkan request pm lewat discord supaya ditambahkan atau silahkan gunakan [form submit](https://forms.gle/X9LLXHFf1nZKreSE6) ini, silahkan baca syarat di bawah ini jika ingin berkontribusi:
   - **Pastikan beatmap yang kalian tambahkan bisa dimainkan (playable)**
   - Beatmap dengan lagu remix, cover, viral atau artis dari Indonesia boleh dimasukkan
   - Beatmap yang sudah *Ranked* di server Bancho, boleh dimasukkan
+  - Jika Beatmap tidak disubmit silahkan upload filenya melalui cloud storage kalian dan creatornya dianggap oleh kalian
 
 Pertanyaan-pertanyaan lain bisa kalian tanya ke gw lewat discord (`troke.id#0027`) atau [Facebook](https://www.facebook.com/trokee12/)
 

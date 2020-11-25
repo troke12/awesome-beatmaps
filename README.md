@@ -32,6 +32,7 @@ Pertanyaan-pertanyaan lain bisa kalian tanya ke gw lewat discord (`troke.id#0027
 | [Siti Badriah - Mamah Minta Pulsa (Speed Up Ver.)](https://osu.ppy.sh/beatmapsets/532917) | [Draftnell](https://osu.ppy.sh/users/3406652) |
 | [Ayu Ting Ting - Sambalado](https://osu.ppy.sh/beatmapsets/542425) | [Volta](https://osu.ppy.sh/users/4154071) |
 | [RAN - Dekat di Hati (REDSHiFT Remix)](https://osu.ppy.sh/beatmapsets/350207) | [[ A v a l o n ]](https://osu.ppy.sh/users/4632359) |
+| [typeMARS - Triumph & Regret](https://osu.ppy.sh/beatmapsets/347650#mania/767046) | [[ A v a l o n ]](https://osu.ppy.sh/users/4632359) |
 | [Last Child - Diary Depresiku](https://osu.ppy.sh/beatmapsets/350305) | [Surono](https://osu.ppy.sh/users/3611370) |
 | [Afgan - Jodoh Pasti Bertemu](https://osu.ppy.sh/beatmapsets/148987) | [Mako Sakata](https://osu.ppy.sh/users/1857063) |
 | [Afgan - Jodoh Pasti Bertemu](https://osu.ppy.sh/beatmapsets/498299) | [Xinely](https://osu.ppy.sh/users/1521445) |

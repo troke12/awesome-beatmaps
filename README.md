@@ -13,7 +13,7 @@ Jika kalian ingin menambahkan beatmap baru, kalian harus mengerti menggunakan Gi
   - Beatmap yang sudah *Ranked* di server Bancho, boleh dimasukkan
   - Jika Beatmap tidak disubmit silahkan upload filenya melalui cloud storage kalian dan creatornya dianggap oleh kalian
 
-Pertanyaan-pertanyaan lain bisa kalian tanya ke gw lewat discord (`troke.id#0027`) atau [Facebook](https://www.facebook.com/trokee12/)
+Pertanyaan-pertanyaan lain bisa kalian tanya ke gw lewat discord (`troke.id#0027`)
 
 ## Ranked
 

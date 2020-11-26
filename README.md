@@ -106,4 +106,6 @@ Pertanyaan-pertanyaan lain bisa kalian tanya ke gw lewat discord (`troke.id#0027
 | [Sheila On 7 - Film Favorit](https://osu.ppy.sh/beatmapsets/821038#osu/1720957) | [-AvicennaNM](https://osu.ppy.sh/users/5058916) |
 | [Project Pop - Metal vs. Dugem](https://osu.ppy.sh/beatmapsets/887458#osu/1855195) | [-AvicennaNM](https://osu.ppy.sh/users/5058916) | 
 | [DEAN SKYZX & YAYA USELESS - Staywithme](https://osu.ppy.sh/beatmapsets/869180#osu/1816557) | [-AvicennaNM](https://osu.ppy.sh/users/5058916) |
-
+| [IndiHome - Paket Phoenix](https://osu.ppy.sh/beatmapsets/1193316#fruits/2486436) | [Funtastic](https://osu.ppy.sh/users/3555626) |
+| [DJ Haning & Rizky Ayuba - You Know I'll Go Get](https://osu.ppy.sh/beatmapsets/1180492#fruits/2461577) | [Funtastic](https://osu.ppy.sh/users/3555626) |
+| [Garox - Garox Circulation](https://osu.ppy.sh/beatmapsets/1044684#fruits/2287863) | [Funtastic](https://osu.ppy.sh/users/3555626) |

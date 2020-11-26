@@ -27,6 +27,7 @@ Jika kalian ingin menambahkan beatmap baru, kalian harus mengerti menggunakan Gi
   - **Pastikan beatmap yang kalian tambahkan bisa dimainkan (playable)**
   - Beatmapnya harus lagu remix, cover, viral atau artis dari Indonesia
   - Beatmap yang sudah *Ranked* di server Bancho boleh diinput
+  - Jangan masukkan creator tapi beatmapnya tidak bertemakan Indonesia
   - Jika Beatmap tidak disubmit pada web osu!, silahkan upload filenya melalui cloud storage kalian dan creatornya dianggap oleh kalian
 
 Pertanyaan-pertanyaan lain bisa kalian tanya ke saya lewat discord (`troke.id#0027`) atau [osu! chat](https://osu.ppy.sh/home/messages/users/3133671)

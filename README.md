@@ -1,19 +1,35 @@
-# Koleksi Beatmap Indonesia
-[![Discord](https://img.shields.io/badge/Discord-osu!%20Indonesia-blue)](https://discord.gg/43zVwRv/)
+<h1 align="center">
+  <br>
+  <a href="http://link.troke.id/beatmap-indonesia"><img src="https://cdn.discordapp.com/attachments/408950289962369025/781373370545602560/awesomebeatmaposu.png" alt="Markdownify" width="300"></a>
+  <br>
+  Awesome Beatmap Indonesia
+  <br>
+</h1>
 
-Koleksi Beatmap Indonesia yang pernah ke ranked di Datenshi dan **playable** untuk dimainkan, daftar ini tetap aktif walau servernya sudah tutup. Yuk mari bantu sebarkan supaya bisa update terus!
+<h4 align="center">Sebuah daftar koleksi beatmap osu! yang bertemakan Indonesia!.</h4>
 
-Link Pendek : https://link.troke.id/beatmap-indonesia
+<p align="center">
+  <a href="https://github.com/sindresorhus/awesome/">
+    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
+  </a>
+  <a href="https://discord.gg/43zVwRv/">
+    <img src="https://img.shields.io/badge/Discord-osu!%20Indonesia-blue"
+         alt="Discord osu!Indonesia">
+  </a>
+  <a href="https://link.troke.id/beatmap-indonesia">
+    <img src="https://img.shields.io/badge/Link-Website-orange">
+  </a>
+</p>
 
 ## Kontribusi
 
 Jika kalian ingin menambahkan beatmap baru, kalian harus mengerti menggunakan GitHub, jika belum pernah menggunakannya silahkan request pm lewat discord supaya ditambahkan atau silahkan gunakan [form submit](https://forms.gle/X9LLXHFf1nZKreSE6) ini, silahkan baca syarat di bawah ini jika ingin berkontribusi:
   - **Pastikan beatmap yang kalian tambahkan bisa dimainkan (playable)**
-  - Beatmap dengan lagu remix, cover, viral atau artis dari Indonesia boleh dimasukkan
-  - Beatmap yang sudah *Ranked* di server Bancho, boleh dimasukkan
-  - Jika Beatmap tidak disubmit silahkan upload filenya melalui cloud storage kalian dan creatornya dianggap oleh kalian
+  - Beatmapnya harus lagu remix, cover, viral atau artis dari Indonesia
+  - Beatmap yang sudah *Ranked* di server Bancho boleh diinput
+  - Jika Beatmap tidak disubmit pada web osu!, silahkan upload filenya melalui cloud storage kalian dan creatornya dianggap oleh kalian
 
-Pertanyaan-pertanyaan lain bisa kalian tanya ke gw lewat discord (`troke.id#0027`)
+Pertanyaan-pertanyaan lain bisa kalian tanya ke saya lewat discord (`troke.id#0027`) atau [osu! chat](https://osu.ppy.sh/home/messages/users/3133671)
 
 ## Ranked
 

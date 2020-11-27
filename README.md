@@ -19,6 +19,9 @@
   <a href="https://link.troke.id/beatmap-indonesia">
     <img src="https://img.shields.io/badge/Link-Website-orange">
   </a>
+  <a href="https://osu.ppy.sh/community/forums/topics/1190477">
+    <img src="https://img.shields.io/badge/Forum-Thread-ff69b4">
+  </a>
 </p>
 
 ## Kontribusi

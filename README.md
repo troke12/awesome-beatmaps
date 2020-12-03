@@ -66,7 +66,10 @@ Pertanyaan-pertanyaan lain bisa kalian tanya ke saya lewat discord (`troke.id#00
 
 | Beatmap | Mapper |
 |---|---|
-| [DJ Haning & Rizky Ayuba - You Know I'll Go Get](https://osu.ppy.sh/beatmapsets/1137896#osu/2376902) | [Firia](https://osu.ppy.sh/users/9730262) |
+| [Pamungkas - Kenangan Manis](https://osu.ppy.sh/beatmapsets/1127224) | [Firia](https://osu.ppy.sh/users/9730262) |
+| [Various Artists - Ba Jamping Jamping X Anjing Banget](https://osu.ppy.sh/s/1313262) | [Firia](https://osu.ppy.sh/users/9730262) |
+| [indihome - tarik ubur ubur](https://osu.ppy.sh/beatmapsets/1226100#osu/2551182) | [ScubDomino](https://osu.ppy.sh/users/8972308) |
+| [DJ Haning & Rizky Ayuba - You Know I'll Go Get](https://osu.ppy.sh/beatmapsets/1137896#osu/2376902) | [Firia](https://osu.ppy.sh/users/9730262) | 
 | [Isyana Sarasvati - Tetap Dalam Jiwa](https://osu.ppy.sh/beatmapsets/892743#osu/1866049) | [Euncha_N](https://osu.ppy.sh/users/10828670) |
 | [JKT48 Indonesia - Baby! Baby! Baby!](https://osu.ppy.sh/beatmapsets/88789#mania/241776) | [Raka_Lawliet](https://osu.ppy.sh/users/2010992) |
 | [Superman Is Dead - Kuat Kita Bersinar](https://osu.ppy.sh/beatmapsets/52877#osu/170522) | [Matoryoshika](https://osu.ppy.sh/users/1475850) |

@@ -37,30 +37,30 @@ Pertanyaan-pertanyaan lain bisa kalian tanya ke saya lewat discord (`troke.id#00
 
 ## Ranked
 
-| Beatmap | Mapper |
-|---|---|
-| [Nidji - Disco Lazy Time](https://osu.ppy.sh/beatmapsets/15343) | [Niva](https://osu.ppy.sh/users/197805) |
-| [REDSHiFT feat. Hatsune Miku - 4U (Cut Ver.)](https://osu.ppy.sh/beatmapsets/296752) | [erlinadewi-](https://osu.ppy.sh/users/3655315) |
-| [Via Vallen - Sayang (Speed Up Ver.)](https://osu.ppy.sh/beatmapsets/719436) | [Keitaro-](https://osu.ppy.sh/users/3378391) |
-| [Via Vallen - Meraih Bintang](https://osu.ppy.sh/beatmapsets/844298) | [Nishizumi](https://osu.ppy.sh/users/2496768) |
-| [Nicky Tirta - Vanessa Angel - Indah Cintaku](https://osu.ppy.sh/beatmapsets/132615) | [HeatKai](https://osu.ppy.sh/users/332555) |
-| [Falha - Cari Pokemon (Speed Up Ver.)](https://osu.ppy.sh/beatmapsets/613128) | [ezek](https://osu.ppy.sh/users/180241) |
-| [Cita Citata - Sakitnya Tuh Disini (Speed Up Ver.)](https://osu.ppy.sh/beatmapsets/240256) | [Fort](https://osu.ppy.sh/users/2805457) |
-| [Cita Citata - Meriang (Speed Up Ver.)](https://osu.ppy.sh/beatmapsets/415751) | [Nishizumi](https://osu.ppy.sh/users/2496768) |
-| [Kahitna - Tentang Diriku](https://osu.ppy.sh/beatmapsets/337573) | [Mako Sakata](https://osu.ppy.sh/users/1857063) |
-| [Utopia - Baby Doll](https://osu.ppy.sh/beatmapsets/793188) | [Surono](https://osu.ppy.sh/users/3611370) |
-| [Vesuvia Project - Night Hunter](https://osu.ppy.sh/beatmapsets/109283) | [Niva](https://osu.ppy.sh/users/197805) |
-| [Siti Badriah - Mamah Minta Pulsa (Speed Up Ver.)](https://osu.ppy.sh/beatmapsets/532917) | [Draftnell](https://osu.ppy.sh/users/3406652) |
-| [Ayu Ting Ting - Sambalado](https://osu.ppy.sh/beatmapsets/542425) | [Volta](https://osu.ppy.sh/users/4154071) |
-| [RAN - Dekat di Hati (REDSHiFT Remix)](https://osu.ppy.sh/beatmapsets/350207) | [[ A v a l o n ]](https://osu.ppy.sh/users/4632359) |
-| [typeMARS - Triumph & Regret](https://osu.ppy.sh/beatmapsets/347650#mania/767046) | [[ A v a l o n ]](https://osu.ppy.sh/users/4632359) |
-| [Last Child - Diary Depresiku](https://osu.ppy.sh/beatmapsets/350305) | [Surono](https://osu.ppy.sh/users/3611370) |
-| [Afgan - Jodoh Pasti Bertemu](https://osu.ppy.sh/beatmapsets/148987) | [Mako Sakata](https://osu.ppy.sh/users/1857063) |
-| [Afgan - Jodoh Pasti Bertemu](https://osu.ppy.sh/beatmapsets/498299) | [Xinely](https://osu.ppy.sh/users/1521445) |
-| [Afgan - Jodoh Pasti Bertemu](https://osu.ppy.sh/beatmapsets/532965) | [Senritsu](https://osu.ppy.sh/users/1165368) |
-| [Afgan - Jodoh Pasti Bertemu](https://osu.ppy.sh/beatmapsets/428509) | [-[Hotaru]-](https://osu.ppy.sh/users/6094929) |
-| [Figura Renata - Elegi](https://osu.ppy.sh/beatmapsets/951803#taiko/1987633) | [Surono](https://osu.ppy.sh/users/3611370) |
-| [ME - Inikah Cintah (REDSHiFT Remix)](https://osu.ppy.sh/beatmapsets/328356) | [[ A v a l o n ]](https://osu.ppy.sh/users/4632359) |
+| Beatmap | Mapper | Gamemode |
+|---|---|---|
+| [Nidji - Disco Lazy Time](https://osu.ppy.sh/beatmapsets/15343) | [Niva](https://osu.ppy.sh/users/197805) | Standard |
+| [REDSHiFT feat. Hatsune Miku - 4U (Cut Ver.)](https://osu.ppy.sh/beatmapsets/296752) | [erlinadewi-](https://osu.ppy.sh/users/3655315) | Mania |
+| [Via Vallen - Sayang (Speed Up Ver.)](https://osu.ppy.sh/beatmapsets/719436) | [Keitaro-](https://osu.ppy.sh/users/3378391) | Standard |
+| [Via Vallen - Meraih Bintang](https://osu.ppy.sh/beatmapsets/844298) | [Nishizumi](https://osu.ppy.sh/users/2496768) | Taiko |
+| [Nicky Tirta - Vanessa Angel - Indah Cintaku](https://osu.ppy.sh/beatmapsets/132615) | [HeatKai](https://osu.ppy.sh/users/332555) | Standard, Taiko |
+| [Falha - Cari Pokemon (Speed Up Ver.)](https://osu.ppy.sh/beatmapsets/613128) | [ezek](https://osu.ppy.sh/users/180241) | Standard |
+| [Cita Citata - Sakitnya Tuh Disini (Speed Up Ver.)](https://osu.ppy.sh/beatmapsets/240256) | [Fort](https://osu.ppy.sh/users/2805457) | Standard |
+| [Cita Citata - Meriang (Speed Up Ver.)](https://osu.ppy.sh/beatmapsets/415751) | [Nishizumi](https://osu.ppy.sh/users/2496768) | Taiko |
+| [Kahitna - Tentang Diriku](https://osu.ppy.sh/beatmapsets/337573) | [Mako Sakata](https://osu.ppy.sh/users/1857063) | Standard |
+| [Utopia - Baby Doll](https://osu.ppy.sh/beatmapsets/793188) | [Surono](https://osu.ppy.sh/users/3611370) | Taiko |
+| [Vesuvia Project - Night Hunter](https://osu.ppy.sh/beatmapsets/109283) | [Niva](https://osu.ppy.sh/users/197805) | Standard |
+| [Siti Badriah - Mamah Minta Pulsa (Speed Up Ver.)](https://osu.ppy.sh/beatmapsets/532917) | [Draftnell](https://osu.ppy.sh/users/3406652) | Mania |
+| [Ayu Ting Ting - Sambalado](https://osu.ppy.sh/beatmapsets/542425) | [Volta](https://osu.ppy.sh/users/4154071) | Taiko |
+| [RAN - Dekat di Hati (REDSHiFT Remix)](https://osu.ppy.sh/beatmapsets/350207) | [[ A v a l o n ]](https://osu.ppy.sh/users/4632359) | Standard, Taiko, Mania |
+| [typeMARS - Triumph & Regret](https://osu.ppy.sh/beatmapsets/347650#mania/767046) | [[ A v a l o n ]](https://osu.ppy.sh/users/4632359) | Mania |
+| [Last Child - Diary Depresiku](https://osu.ppy.sh/beatmapsets/350305) | [Surono](https://osu.ppy.sh/users/3611370) | Standard, Taiko, CTB, Mania |
+| [Afgan - Jodoh Pasti Bertemu](https://osu.ppy.sh/beatmapsets/148987) | [Mako Sakata](https://osu.ppy.sh/users/1857063) | Standard |
+| [Afgan - Jodoh Pasti Bertemu](https://osu.ppy.sh/beatmapsets/498299) | [Xinely](https://osu.ppy.sh/users/1521445) | CTB |
+| [Afgan - Jodoh Pasti Bertemu](https://osu.ppy.sh/beatmapsets/532965) | [Senritsu](https://osu.ppy.sh/users/1165368) | Taiko |
+| [Afgan - Jodoh Pasti Bertemu](https://osu.ppy.sh/beatmapsets/428509) | [-[Hotaru]-](https://osu.ppy.sh/users/6094929) | Mania |
+| [Figura Renata - Elegi](https://osu.ppy.sh/beatmapsets/951803#taiko/1987633) | [Surono](https://osu.ppy.sh/users/3611370) | Taiko |
+| [ME - Inikah Cintah (REDSHiFT Remix)](https://osu.ppy.sh/beatmapsets/328356) | [[ A v a l o n ]](https://osu.ppy.sh/users/4632359) | Mania |
 
 ## Pending / Graveyard / Work In Progress
 

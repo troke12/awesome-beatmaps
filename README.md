@@ -133,3 +133,6 @@ Pertanyaan-pertanyaan lain bisa kalian tanya ke saya lewat discord (`troke.id#00
 | [DJ Haning & Rizky Ayuba - You Know I'll Go Get](https://osu.ppy.sh/beatmapsets/1180492#fruits/2461577) | [Funtastic](https://osu.ppy.sh/users/3555626) |
 | [Garox - Garox Circulation](https://osu.ppy.sh/beatmapsets/1044684#fruits/2287863) | [Funtastic](https://osu.ppy.sh/users/3555626) |
 | [Garox - Garox Remix](https://osu.ppy.sh/beatmapsets/1118582#osu/2337099) | [HappyChoker](https://osu.ppy.sh/users/10599340) |
+| [Ayunda Risu - KING](https://osu.ppy.sh/beatmapsets/1298760#osu/2693853) | [AmamiyaDesu](https://osu.ppy.sh/users/12111248) |
+| [Airani Iofifteen - Alien Alien](https://osu.ppy.sh/beatmapsets/1181593#mania/2467545) | [LLENN-](https://osu.ppy.sh/users/7428653) |
+| [Moona Hoshinova - DJ Spongebob Ripped Pants](https://osu.ppy.sh/beatmapsets/1147183#mania/2395479) | [2ndlegend](https://osu.ppy.sh/users/7621604) |

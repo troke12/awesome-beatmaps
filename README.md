@@ -61,6 +61,7 @@ Pertanyaan-pertanyaan lain bisa kalian tanya ke saya lewat discord (`troke.id#00
 | [Afgan - Jodoh Pasti Bertemu](https://osu.ppy.sh/beatmapsets/428509) | [-[Hotaru]-](https://osu.ppy.sh/users/6094929) | Mania |
 | [Figura Renata - Elegi](https://osu.ppy.sh/beatmapsets/951803#taiko/1987633) | [Surono](https://osu.ppy.sh/users/3611370) | Taiko |
 | [ME - Inikah Cintah (REDSHiFT Remix)](https://osu.ppy.sh/beatmapsets/328356) | [[ A v a l o n ]](https://osu.ppy.sh/users/4632359) | Mania |
+| [LBDJS - Tari Ubur Ubur (Hendro Engkeng Remix) (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1285848#osu/2669883) | [Aakki](https://osu.ppy.sh/users/11077540) | Standard | 
 
 ## Pending / Graveyard / Work In Progress
 
@@ -137,4 +138,5 @@ Pertanyaan-pertanyaan lain bisa kalian tanya ke saya lewat discord (`troke.id#00
 | [Airani Iofifteen - Alien Alien](https://osu.ppy.sh/beatmapsets/1181593#mania/2467545) | [LLENN-](https://osu.ppy.sh/users/7428653) |
 | [Airani Iofifteen - Alien Alien](https://osu.ppy.sh/beatmapsets/1186810#osu/2473437) | [Shirasaka](https://osu.ppy.sh/users/13356408) |
 | [Moona Hoshinova - DJ Spongebob Ripped Pants](https://osu.ppy.sh/beatmapsets/1147183#mania/2395479) | [2ndlegend](https://osu.ppy.sh/users/7621604) |
+| [Weird Genius - Lathi](https://osu.ppy.sh/b/2400635) | [Oxcygen](https://osu.ppy.sh/users/13371424) |
 

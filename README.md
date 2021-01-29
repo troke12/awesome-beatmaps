@@ -139,4 +139,5 @@ Pertanyaan-pertanyaan lain bisa kalian tanya ke saya lewat discord (`troke.id#00
 | [Airani Iofifteen - Alien Alien](https://osu.ppy.sh/beatmapsets/1186810#osu/2473437) | [Shirasaka](https://osu.ppy.sh/users/13356408) |
 | [Moona Hoshinova - DJ Spongebob Ripped Pants](https://osu.ppy.sh/beatmapsets/1147183#mania/2395479) | [2ndlegend](https://osu.ppy.sh/users/7621604) |
 | [Weird Genius - Lathi](https://osu.ppy.sh/b/2400635) | [Oxcygen](https://osu.ppy.sh/users/13371424) |
+| [Mixtrelle X REDSHiFT - Zamrud Khatulistiwa](https://osu.ppy.sh/s/1358873) | [theramdans](https://osu.ppy.sh/users/1913736) |
 

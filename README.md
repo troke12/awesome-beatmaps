@@ -140,4 +140,8 @@ Pertanyaan-pertanyaan lain bisa kalian tanya ke saya lewat discord (`troke.id#00
 | [Moona Hoshinova - DJ Spongebob Ripped Pants](https://osu.ppy.sh/beatmapsets/1147183#mania/2395479) | [2ndlegend](https://osu.ppy.sh/users/7621604) |
 | [Weird Genius - Lathi](https://osu.ppy.sh/b/2400635) | [Oxcygen](https://osu.ppy.sh/users/13371424) |
 | [Mixtrelle X REDSHiFT - Zamrud Khatulistiwa](https://osu.ppy.sh/s/1358873) | [theramdans](https://osu.ppy.sh/users/1913736) |
-
+| [Yovie Nuno - Dia Milikku](https://osu.ppy.sh/beatmapsets/1143346#osu/2387488) | [- AfifAkilie -](https://osu.ppy.sh/users/6220419) |
+| [Melinda - Cinta Satu Malam](https://osu.ppy.sh/beatmapsets/162163#fruits/395719) | [Toka](https://osu.ppy.sh/beatmapsets/162163#fruits/395719) |
+| [You Know I'll Go Get (Speed Up Ver.) DJ Haning & Rizky Ayuba](https://osu.ppy.sh/beatmapsets/1139095#mania/2379503) | [Voxa](https://osu.ppy.sh/users/9229539) |
+| [Lingsir Wengi Remix DJ Horor](https://osu.ppy.sh/beatmapsets/941478#mania/1966031) | [Voxa](https://osu.ppy.sh/users/9229539) |
+| [Jebakan Subur (Mardial Remix)](https://osu.ppy.sh/beatmapsets/89163#osu/242585) | [WVS](https://osu.ppy.sh/users/1584663) |

@@ -39,6 +39,7 @@ Pertanyaan-pertanyaan lain bisa kalian tanya ke saya lewat discord (`troke.id#00
 
 | Beatmap | Mapper | Gamemode |
 |---|---|---|
+| [Kobo kanaeru - Mantra Hujan](https://osu.ppy.sh/beatmapsets/1731683) | [Nakazawa](https://osu.ppy.sh/users/6220419) | Standard |
 | [Nidji - Disco Lazy Time](https://osu.ppy.sh/beatmapsets/15343) | [Niva](https://osu.ppy.sh/users/197805) | Standard |
 | [REDSHiFT feat. Hatsune Miku - 4U (Cut Ver.)](https://osu.ppy.sh/beatmapsets/296752) | [erlinadewi-](https://osu.ppy.sh/users/3655315) | Mania |
 | [Via Vallen - Sayang (Speed Up Ver.)](https://osu.ppy.sh/beatmapsets/719436) | [Keitaro-](https://osu.ppy.sh/users/3378391) | Standard |
